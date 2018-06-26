@@ -1,1 +1,1 @@
-# Sacred-Texts
+This repository contains the solutions I prepared and the course material for Andrew NG's machine learning course on Coursera. Feel free to refer it and add alternative solutions to the questions (if any).
